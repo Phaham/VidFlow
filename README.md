@@ -6,7 +6,7 @@ A sleek and modern video sharing platform built with Angular that empowers users
 
 ## Features
 
-- 📹 **Upload & Share**: Upload short video clips and GIFs with ease
+- 📹 **Upload & Share**: Upload short videos, clips and GIFs with ease
 - 🎨 **Video Management**: Edit video details, manage your uploads
 - 🔍 **Discover Content**: Browse and discover clips from other users
 - 👤 **User Authentication**: Secure user registration and login system
@@ -25,8 +25,8 @@ A sleek and modern video sharing platform built with Angular that empowers users
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd clips-master
+git clone https://github.com/Phaham/VidFlow/
+cd VidFlow
 ```
 
 2. Install dependencies
@@ -96,11 +96,5 @@ ng test
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 Built with ❤️ using Angular CLI version 14.2.2
